@@ -1,0 +1,2 @@
+# task6js
+assignment
